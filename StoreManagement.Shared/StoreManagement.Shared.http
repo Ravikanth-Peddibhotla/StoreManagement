@@ -1,0 +1,6 @@
+@StoreManagement.Shared_HostAddress = http://localhost:5285
+
+GET {{StoreManagement.Shared_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
